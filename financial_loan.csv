@@ -1,0 +1,19 @@
+1.calculate the total number of loan applications received during a specified period
+"2.calculate the total number of loan applications received during a specified period, monitor the Month-to-Date (MTD) Loan Applications"
+3.calculate the total number of loan applications received during a specified period track changes Month over month (MoM)
+4.calculate the total amount of funds disbursed as loans
+5.calculate the total amount of funds disbursed as loans on the MTD 
+6.Analyse the MoM changes in this metrics
+7.Track total amount received from borrowers to assess the bank's cash flow and loan repayment
+ 8.Analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
+"9.Calculate the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations"
+"10.Compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations"
+11.calculate the percentage of bad applications classified as 'Good Loans.' This category includes loans with a loan status of 'Fully Paid' and 'Current.
+"12.Identifying the total number of loan applications falling under the 'Good Loan' category, which consists of loans with a loan status of 'Fully Paid' and 'Current.'"
+13.Determine the total amount of funds disbursed as 'Good Loans.' This includes the principal amounts of loans with a loan status of 'Fully Paid' and 'Current.'
+"14.Track the total amount received from borrowers for 'Good Loans,' which encompasses all payments made on loans with a loan status of 'Fully Paid' and 'Current.'"
+15.calculate the percentage of loan applications classified as 'Bad Loans.' This category includes loans with a loan status of 'Charged off' .
+"16.Identifying the total number of loan applications falling under the 'Bad Loan' category, which consists of loans with a loan status of  'Charged off'"
+17.Determine the total amount of funds disbursed as 'Bad Loans.' This includes the principal amounts of loans with a loan status of  'Charged off'
+"18.Track the total amount received from borrowers for 'Bad Loans,' which encompasses all payments made on loans with a loan status of  'Charged off'"
+"19.Create a Table to show, 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI),' "
