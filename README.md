@@ -6,6 +6,8 @@
 The Bank Loan Project focuses on building a comprehensive reporting solution to analyze and monitor a bank’s lending activities. Using SQL Server for data processing and Power BI for visualization, the project delivers actionable insights into loan applications, disbursements, repayments, and portfolio risk.
 The project was designed around three dashboards — Summary, Overview, and Details — to provide both high-level KPIs and in-depth analysis
 
+![Bank_Logo](https://github.com/Ayobami-hubs/assets/043d2fd5-53f3-4375-bb70-60600241eeb9)
+
 ## SQL Implementation
 
 Developed SQL queries to calculate core metrics including loan applications, total funded amounts, repayments received, average interest rates, and debt-to-income (DTI) ratios.
@@ -13,13 +15,12 @@ Built Month-to-Date (MTD) and Month-over-Month (MoM) measures for trend analysis
 Segmented loans into Good Loans (Fully Paid & Current) vs. Bad Loans (Charged Off) to evaluate portfolio health.
 Performed dimensional breakdowns by state, term, loan purpose, employment length, and home ownership.
 
-## Data Model
-
 ## Dashboard Objective
 
 **Dashboard 1 – Summary**: KPI-focused view of loan applications, disbursements, repayments, interest rates, and DTI with Good Loan vs. Bad Loan segmentation.
 **Dashboard 2 – Overview**: Visual analytics using line charts, maps, bar charts, donut charts, and treemaps to highlight loan trends by time, region, borrower profile, and loan purpose.
 **Dashboard 3 – Details**: A consolidated, drill-down view for detailed borrower and loan-level information.
+<img width="757" height="437" alt="Screenshot (380)" src="https://github.com/Ayobami-hubs/assets/83a67080-fde4-4a4c-aec3-894bcfc1c0e5" />
 
 ## Report
 
