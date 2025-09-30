@@ -18,6 +18,7 @@ Performed dimensional breakdowns by state, term, loan purpose, employment length
 **Dashboard 1 – Summary**: KPI-focused view of loan applications, disbursements, repayments, interest rates, and DTI with Good Loan vs. Bad Loan segmentation.
 **Dashboard 2 – Overview**: Visual analytics using line charts, maps, bar charts, donut charts, and treemaps to highlight loan trends by time, region, borrower profile, and loan purpose.
 **Dashboard 3 – Details**: A consolidated, drill-down view for detailed borrower and loan-level information.
+
 [![Dashboard Preview](https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/Screenshot%20(380).png)](https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/BankLoanDashBoard.pdf.pdf)
 
 ## Report
