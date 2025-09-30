@@ -1,7 +1,7 @@
 # PROJECT_BANK-LOAN
 
 <p align="center">
-  <img src="https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/Bank_Logo.jpg" alt="Bank Logo" width="150"/>
+  <img src="https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/Bank_Logo.jpg" alt="Bank Logo" width="250"/>
 </p>
 
 ## Project Overview
