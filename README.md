@@ -1,4 +1,9 @@
 # PROJECT_BANK-LOAN
+
+<p align="center">
+  <img src="https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/Bank_Logo.jpg" alt="Bank Logo" width="150"/>
+</p>
+
 ## Project Overview
 **Project Title**: Bank Loan
 **Database**: Bank Loan DB
@@ -12,6 +17,23 @@ Developed SQL queries to calculate core metrics including loan applications, tot
 Built Month-to-Date (MTD) and Month-over-Month (MoM) measures for trend analysis.
 Segmented loans into Good Loans (Fully Paid & Current) vs. Bad Loans (Charged Off) to evaluate portfolio health.
 Performed dimensional breakdowns by state, term, loan purpose, employment length, and home ownership.
+Some of the queries include;
+
+~~~sql
+---Track the total amount received from borrowers for 'Good Loans,' which encompasses all payments made on loans with a loan status of 'Fully Paid' and 'Current.'
+
+SELECT SUM(total_payment) AS Receivedfunds_Goodloan 
+FROM bank_loan_data
+WHERE loan_status = 'Fully Paid' OR loan_status = 'Current'
+
+
+---calculate the percentage of loan applications classified as 'Bad Loans.' This category includes loans with a loan status of 'Charged off'.
+
+SELECT COUNT 
+(CASE WHEN loan_status ='Charged off' THEN ID
+END)*100/COUNT(id) AS Badloan_applicationPercent
+FROM bank_loan_data
+~~~
 
 ## Dashboard Objective
 
