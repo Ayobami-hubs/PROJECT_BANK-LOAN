@@ -7,7 +7,7 @@ The Bank Loan Project focuses on building a comprehensive reporting solution to 
 The project was designed around three dashboards — Summary, Overview, and Details — to provide both high-level KPIs and in-depth analysis
 
 ![Bank_Logo](https://github.com/Ayobami-hubs/assets/043d2fd5-53f3-4375-bb70-60600241eeb9)
-Bank_Logo.jpg
+![Bank_Logo]https://github.com/Ayobami-hubs/PROJECT_BANK-LOAN/blob/main/Bank_Logo.jpg
 
 ## SQL Implementation
 
